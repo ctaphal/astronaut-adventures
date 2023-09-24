@@ -74,7 +74,7 @@ def main():
             st.write("Oh, okay...bye 🥲")
             st.write("Just Kidding!")
             options()
-            b = st.radio("Which do you want to learn about:", ("Solar System 🪐 ", "Stars ⭐️", "Constellations ✨", "What type of galaxy the Milky Way is. 🛸 ", "What is the age of Milky Way? 🛰️", "Done ✌️👽✌️"))
+            b = st.radio("Which do you want to learn about:", ("Solar System", "Stars", "Constellations", "What type of galaxy the Milky Way is", "Age of Milky Way?", "Done"))
             if b == "Solar System":
                 inputsolar()
             elif b == "Stars":
@@ -86,7 +86,7 @@ def main():
             elif b == "Age of Milky Way?":
                 inputquesttwo()
             elif b == "Done":
-                st.write("Bye! It's been a blast🚀!")
+                st.write("Bye! It's been a blast!")
 
 if __name__ == "__main__":
     main()
