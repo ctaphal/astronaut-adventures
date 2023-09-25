@@ -1,5 +1,3 @@
-# Welcome to streamlit
+# Welcome to Astronaut Adventures!
 
-This is the app you get when you run `streamlit run "Hello.py"`, extracted as its own app.
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+This is a space-themed web app for kids! Designed to engage kids with space through fun (and occasionally educational) content! Enjoy "stellar" puns, music, pics, and MORE😲!!
