@@ -8,9 +8,9 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="Cool Space",
-        page_icon="🚀",
-    )
+        page_title="Astronaut Adventures!",
+        page_icon="🚀"    
+        )
 
     st.write("# :rainbow[Astronaut Adventures!] 🚀")
 
