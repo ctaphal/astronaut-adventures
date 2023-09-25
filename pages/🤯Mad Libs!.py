@@ -25,7 +25,7 @@ def run() -> None:
         celestial = st.text_input("celestial body (e.g., planet, moon)")
         adj = st.text_input("adjective")
         adj2 = st.text_input("another adjective")
-        noun2 = st.text_input("another noun")
+        noun2 = st.text_input("plural noun")
         adj3 = st.text_input("an adjective (again!)")
         alien = st.text_input("alien name")
 
