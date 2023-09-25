@@ -19,7 +19,7 @@ def run() -> None:
 
     if selected == "Astronaut Adventure!":
 
-        verb = st.text_input("verb")
+        verb = st.text_input("verb (past tense)")
         noun = st.text_input("noun")
         color = st.text_input("color")
         celestial = st.text_input("celestial body (e.g., planet, moon)")
